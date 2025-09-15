@@ -1,6 +1,9 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="http://huyaimg.msstatic.com/avatar/1081/9e/65115e9fb3108fcb101361c8ab9dd7_180_135.jpg",group-title="「虎牙」一起看",小木子先生丶
 http://al.hls.huya.com/src/1394565204-1394565204-5989611943319568384-2789253864-10057-A-0-1.m3u8?wsSecret=df3bf37ff95330f83752973388244d84&wsTime=68c79e66&seqid=3221902937185&ctype=huya_live&ver=1&txyp=o%3Ad2%3B&fs=bgct&ratio=&u=1463993859134&t=&sv=2107230339
+http://al.hls.huya.com/src/1394565204-1394565204-5989611943319568384-2789253864-10057-A-0-1.m3u8?wsSecret=4aaf30abae7ff217953eef87c7eddd3e&wsTime=68c7ae22&seqid=3221906965943&ctype=huya_live&ver=1&txyp=o%3Ad2%3B&fs=bgct&ratio=&u=1463993859134&t=&sv=2107230339
+http://tx.hls.huya.com/src/1394565204-1394565204-5989611943319568384-2789253864-10057-A-0-1.m3u8?wsSecret=4aaf30abae7ff217953eef87c7eddd3e&wsTime=68c7ae22&seqid=3221906965943&ctype=huya_live&ver=1&txyp=o%3Ad2%3B&fs=bgct&ratio=&u=1463993859134&t=&sv=2107230339
+http://hs.hls.huya.com/src/1394565204-1394565204-5989611943319568384-2789253864-10057-A-0-1.m3u8?wsSecret=4aaf30abae7ff217953eef87c7eddd3e&wsTime=68c7ae22&seqid=3221906965943&ctype=huya_live&ver=1&txyp=o%3Ad2%3B&fs=bgct&ratio=&u=1463993859134&t=&sv=2107230339
 #EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1077/05/1be792c3b61d0358a25f533c3d42f5_180_135.jpg?1606108236",group-title="「虎牙」一起看",多美剧场
 http://al.hls.huya.com/src/1199560556212-1199560556212-5431761937144741888-2399121235880-10057-A-0-1.m3u8?wsSecret=82e94d7c71286c322f5dd91fd5fd8e9d&wsTime=68c7abdd&seqid=3221906384202&ctype=huya_live&ver=1&txyp=&fs=bgct&ratio=&u=1463993859134&t=&sv=2107230339
 http://tx.hls.huya.com/src/1199560556212-1199560556212-5431761937144741888-2399121235880-10057-A-0-1.m3u8?wsSecret=82e94d7c71286c322f5dd91fd5fd8e9d&wsTime=68c7abdd&seqid=3221906384202&ctype=huya_live&ver=1&txyp=&fs=bgct&ratio=&u=1463993859134&t=&sv=2107230339
@@ -602,6 +605,7 @@ http://113.195.7.46:9901/tsfile/live/1049_1.m3u8?key=txiptv&playlive=0&authid=0
 http://113.195.7.46:9901/tsfile/live/1106_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 group-title="其他频道",高尔夫
 http://113.195.7.46:9901/tsfile/live/1105_1.m3u8?key=txiptv&playlive=0&authid=0
+
 
 
 
