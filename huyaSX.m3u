@@ -10,13 +10,13 @@ https://mursor.ottiptv.cc/huya/11342396
 #EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1097/fe/ed53deb45515d2b5112db66cea1357_180_135.jpg?1720597114" group-title="「虎牙」一起看", 周董永远的神
 https://mursor.ottiptv.cc/huya/29982629
 大漠李白
-#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1075/c1/288db99c4c84edecdfa3a4dd786802_180_135.jpg?1715914636" group-title="「虎牙」一起看", 大漠李白
-https://mursor.ottiptv.cc/huya/26355861
-http://shorturl.jxpan.vip:18888/baoshi_aio/huya/26355861
-http://al.hls.huya.com/huyalive/1099531840937-1099531840937-86814865443782656-2199063805330-10057-A-0-1.m3u8?wsSecret=1fdbf639115a96c8e23986af451ecaab&wsTime=68c8c918&seqid=3221979403427&ctype=huya_live&ver=1&txyp=&fs=bgct&ratio=&u=1463993859134&t=&sv=2107230339
-http://tx.hls.huya.com/src/1099531840937-1099531840937-86814865443782656-2199063805330-10057-A-0-1.m3u8?wsSecret=1fdbf639115a96c8e23986af451ecaab&wsTime=68c8c918&seqid=3221979403427&ctype=huya_live&ver=1&txyp=&fs=bgct&ratio=&u=1463993859134&t=&sv=2107230339
-http://hs.hls.huya.com/src/1099531840937-1099531840937-86814865443782656-2199063805330-10057-A-0-1.m3u8?wsSecret=1fdbf639115a96c8e23986af451ecaab&wsTime=68c8c918&seqid=3221979403427&ctype=huya_live&ver=1&txyp=&fs=bgct&ratio=&u=1463993859134&t=&sv=2107230339
-https://www.goodiptv.club/huya/26355861
+"_comment":#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1075/c1/288db99c4c84edecdfa3a4dd786802_180_135.jpg?1715914636" group-title="「虎牙」一起看", 大漠李白
+"_comment":https://mursor.ottiptv.cc/huya/26355861
+"_comment":http://shorturl.jxpan.vip:18888/baoshi_aio/huya/26355861
+"_comment":http://al.hls.huya.com/huyalive/1099531840937-1099531840937-86814865443782656-2199063805330-10057-A-0-1.m3u8?wsSecret=1fdbf639115a96c8e23986af451ecaab&wsTime=68c8c918&seqid=3221979403427&ctype=huya_live&ver=1&txyp=&fs=bgct&ratio=&u=1463993859134&t=&sv=2107230339
+"_comment":http://tx.hls.huya.com/src/1099531840937-1099531840937-86814865443782656-2199063805330-10057-A-0-1.m3u8?wsSecret=1fdbf639115a96c8e23986af451ecaab&wsTime=68c8c918&seqid=3221979403427&ctype=huya_live&ver=1&txyp=&fs=bgct&ratio=&u=1463993859134&t=&sv=2107230339
+"_comment":http://hs.hls.huya.com/src/1099531840937-1099531840937-86814865443782656-2199063805330-10057-A-0-1.m3u8?wsSecret=1fdbf639115a96c8e23986af451ecaab&wsTime=68c8c918&seqid=3221979403427&ctype=huya_live&ver=1&txyp=&fs=bgct&ratio=&u=1463993859134&t=&sv=2107230339
+"_comment":https://www.goodiptv.club/huya/26355861
 大道遺所思
 #EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1014/d3/9216a716a4c646801ce28ca0828d46_180_135.jpg?1717726115" group-title="「虎牙」一起看", 大道遺所思
 https://mursor.ottiptv.cc/huya/26355768
@@ -678,6 +678,7 @@ http://113.195.7.46:9901/tsfile/live/1049_1.m3u8?key=txiptv&playlive=0&authid=0
 http://113.195.7.46:9901/tsfile/live/1106_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 group-title="其他频道",高尔夫
 http://113.195.7.46:9901/tsfile/live/1105_1.m3u8?key=txiptv&playlive=0&authid=0
+
 
 
 
