@@ -9,6 +9,10 @@ https://mursor.ottiptv.cc/huya/11342396
 周董永远的神
 #EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1097/fe/ed53deb45515d2b5112db66cea1357_180_135.jpg?1720597114" group-title="「虎牙」一起看", 周董永远的神
 https://mursor.ottiptv.cc/huya/29982629
+
+测试大漠李白
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1075/c1/288db99c4c84edecdfa3a4dd786802_180_135.jpg?1715914636" group-title="「虎牙」一起看", 测试_1_大漠李白
+https://c4dc566b-b2df-4ad4-a97f-ea2e5dad3c11-00-1vg29fsre5ol1.spock.replit.dev/huya/26355861
 大漠李白
 #EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1075/c1/288db99c4c84edecdfa3a4dd786802_180_135.jpg?1715914636" group-title="「虎牙」一起看", 大漠李白
 https://mursor.ottiptv.cc/huya/26355861
@@ -678,6 +682,7 @@ http://113.195.7.46:9901/tsfile/live/1049_1.m3u8?key=txiptv&playlive=0&authid=0
 http://113.195.7.46:9901/tsfile/live/1106_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 group-title="其他频道",高尔夫
 http://113.195.7.46:9901/tsfile/live/1105_1.m3u8?key=txiptv&playlive=0&authid=0
+
 
 
 
