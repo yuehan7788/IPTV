@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="http://huyaimg.msstatic.com/avatar/1081/9e/65115e9fb3108fcb101361c8ab9dd7_180_135.jpg" group-title="「虎牙」一起看", 小木子先生丶
 https://live.ottiptv.cc/huya/11342396
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1042/79/919162260d4d0b1718b68009e53ea2_180_135.jpg?1722494753" group-title="一见杨过终身误 华仔版神雕侠侣
+https://live.ottiptv.cc/huya/30080191
 #EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1097/fe/ed53deb45515d2b5112db66cea1357_180_135.jpg?1720597114" group-title="「虎牙」一起看", 周董永远的神
 https://live.ottiptv.cc/huya/29982629
 #EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1075/c1/288db99c4c84edecdfa3a4dd786802_180_135.jpg?1715914636" group-title="「虎牙」一起看", 大漠李白
@@ -101,3 +103,4 @@ https://live.ottiptv.cc/huya/29465891
 https://live.ottiptv.cc/huya/11342420
 #EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1002/4b/bdd1e31b0131deac50db4173915414_180_135.jpg?1543373465" group-title="「虎牙」一起看", 西红柿
 https://live.ottiptv.cc/huya/11601979
+
