@@ -107,6 +107,18 @@ https://live.ottiptv.cc/huya/11601979
 
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202509/5e890868a6f4463aa5038dc64911d3cd_big.jpg" group-title="🐠斗鱼一起看", 阿园子i
 https://live.ottiptv.cc/douyu/6588759
+#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202009/010c17645de24909a2346e4999e8a265_big.jpg" group-title="🐠一起看", 牛奶味的梦猪猪
+https://live.ottiptv.cc/douyu/5261342
+#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202311/12422ecfee974b2199b5e29dec475275_big.jpg" group-title="🐠一起看", 武侠剧场
+https://live.ottiptv.cc/douyu/9285904
+#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/201909/13a0b26f642a4231ad377040d1c58d07_big.jpg" group-title="🐠一起看", 伊太刀刀
+https://live.ottiptv.cc/douyu/747764
+#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202009/010c17645de24909a2346e4999e8a265_big.jpg" group-title="🐠一起看", 牛奶味的梦猪猪
+https://live.ottiptv.cc/douyu/5261342
+#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202502/34b7efbd221a44adab674a37e6237cc9_big.jpg" group-title="🐠一起看", JhZj丶天明
+https://live.ottiptv.cc/douyu/1006179
+#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202505/c1384406cf82467aa5ede85c74b4bec0_big.jpg" group-title="🐠一起看", 电视剧僵尸约会
+https://live.ottiptv.cc/douyu/8371123
 
 #EXTM3U
 #EXTINF:-1 group-title="央视频道",CCTV1
@@ -679,3 +691,4 @@ http://113.195.7.46:9901/tsfile/live/1049_1.m3u8?key=txiptv&playlive=0&authid=0
 http://113.195.7.46:9901/tsfile/live/1106_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 group-title="其他频道",高尔夫
 http://113.195.7.46:9901/tsfile/live/1105_1.m3u8?key=txiptv&playlive=0&authid=0
+
