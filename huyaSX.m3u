@@ -3,8 +3,6 @@
 https://live.ottiptv.cc/huya/11342396
 #EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1042/79/919162260d4d0b1718b68009e53ea2_180_135.jpg?1722494753" group-title="🐯「虎牙」一起看"，一见杨过终身误 华仔版神雕侠侣
 https://live.ottiptv.cc/huya/30080191
-#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1097/fe/ed53deb45515d2b5112db66cea1357_180_135.jpg?1720597114" group-title="🐯「虎牙」一起看", 周董永远的神
-https://live.ottiptv.cc/huya/29982629
 #EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1075/c1/288db99c4c84edecdfa3a4dd786802_180_135.jpg?1715914636" group-title="🐯「虎牙」一起看", 大漠李白
 https://live.ottiptv.cc/huya/26355861?cdn=hscdn
 #EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1014/d3/9216a716a4c646801ce28ca0828d46_180_135.jpg?1717726115" group-title="🐯「虎牙」一起看", 大道遺所思
@@ -103,21 +101,23 @@ https://live.ottiptv.cc/huya/29465891
 https://live.ottiptv.cc/huya/11342420
 #EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1002/4b/bdd1e31b0131deac50db4173915414_180_135.jpg?1543373465" group-title="🐯「虎牙」一起看", 西红柿
 https://live.ottiptv.cc/huya/11601979
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1097/fe/ed53deb45515d2b5112db66cea1357_180_135.jpg?1720597114" group-title="🐯「虎牙」一起看", 周董永远的神
+https://live.ottiptv.cc/huya/29982629
 
 
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202509/5e890868a6f4463aa5038dc64911d3cd_big.jpg" group-title="🐠斗鱼一起看", 阿园子i
 https://live.ottiptv.cc/douyu/6588759
-#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202009/010c17645de24909a2346e4999e8a265_big.jpg" group-title="🐠一起看", 牛奶味的梦猪猪
+#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202009/010c17645de24909a2346e4999e8a265_big.jpg" group-title="🐠斗鱼一起看", 牛奶味的梦猪猪
 https://live.ottiptv.cc/douyu/5261342
-#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202311/12422ecfee974b2199b5e29dec475275_big.jpg" group-title="🐠一起看", 武侠剧场
+#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202311/12422ecfee974b2199b5e29dec475275_big.jpg" group-title="🐠斗鱼一起看", 武侠剧场
 https://live.ottiptv.cc/douyu/9285904
-#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/201909/13a0b26f642a4231ad377040d1c58d07_big.jpg" group-title="🐠一起看", 伊太刀刀
+#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/201909/13a0b26f642a4231ad377040d1c58d07_big.jpg" group-title="🐠斗鱼一起看", 伊太刀刀
 https://live.ottiptv.cc/douyu/747764
-#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202009/010c17645de24909a2346e4999e8a265_big.jpg" group-title="🐠一起看", 牛奶味的梦猪猪
+#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202009/010c17645de24909a2346e4999e8a265_big.jpg" group-title="🐠斗鱼一起看", 牛奶味的梦猪猪
 https://live.ottiptv.cc/douyu/5261342
-#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202502/34b7efbd221a44adab674a37e6237cc9_big.jpg" group-title="🐠一起看", JhZj丶天明
+#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202502/34b7efbd221a44adab674a37e6237cc9_big.jpg" group-title="🐠斗鱼一起看", JhZj丶天明
 https://live.ottiptv.cc/douyu/1006179
-#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202505/c1384406cf82467aa5ede85c74b4bec0_big.jpg" group-title="🐠一起看", 电视剧僵尸约会
+#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202505/c1384406cf82467aa5ede85c74b4bec0_big.jpg" group-title="🐠斗鱼一起看", 电视剧僵尸约会
 https://live.ottiptv.cc/douyu/8371123
 
 #EXTM3U
@@ -691,6 +691,7 @@ http://113.195.7.46:9901/tsfile/live/1049_1.m3u8?key=txiptv&playlive=0&authid=0
 http://113.195.7.46:9901/tsfile/live/1106_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 group-title="其他频道",高尔夫
 http://113.195.7.46:9901/tsfile/live/1105_1.m3u8?key=txiptv&playlive=0&authid=0
+
 
 
 
