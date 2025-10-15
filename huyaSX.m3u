@@ -5,6 +5,10 @@ https://live.ottiptv.cc/huya/11342396
 https://live.ottiptv.cc/huya/30080191
 #EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1075/c1/288db99c4c84edecdfa3a4dd786802_180_135.jpg?1715914636" group-title="🐯「虎牙」一起看", 大漠李白
 https://live.ottiptv.cc/huya/26355861?cdn=hscdn
+https://live.ottiptv.cc/huya/26355861?cdn=hwcdn
+https://live.ottiptv.cc/huya/26355861?cdn=wscdn
+https://live.ottiptv.cc/huya/26355861?cdn=hycdn
+https://live.ottiptv.cc/huya/26355861?cdn=txcdn
 #EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1014/d3/9216a716a4c646801ce28ca0828d46_180_135.jpg?1717726115" group-title="🐯「虎牙」一起看", 大道遺所思
 https://live.ottiptv.cc/huya/26355768
 #EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1052/83/a0f6069a046b08ea3a1b0e42a7ba8d_180_135.jpg?1719545615" group-title="🐯「虎牙」一起看", 自缘身在苔衣上
@@ -691,6 +695,7 @@ http://113.195.7.46:9901/tsfile/live/1049_1.m3u8?key=txiptv&playlive=0&authid=0
 http://113.195.7.46:9901/tsfile/live/1106_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 group-title="其他频道",高尔夫
 http://113.195.7.46:9901/tsfile/live/1105_1.m3u8?key=txiptv&playlive=0&authid=0
+
 
 
 
