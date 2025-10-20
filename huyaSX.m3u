@@ -1,6 +1,5 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="http://huyaimg.msstatic.com/avatar/1081/9e/65115e9fb3108fcb101361c8ab9dd7_180_135.jpg" group-title="🐯「虎牙」一起看", 小木子先生丶
-https://huya.yueh80200.workers.dev/?rid=11342396
 https://live.ottiptv.cc/huya/11342396
 #EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1042/79/919162260d4d0b1718b68009e53ea2_180_135.jpg?1722494753" group-title="🐯「虎牙」一起看"，一见杨过终身误 华仔版神雕侠侣
 https://live.ottiptv.cc/huya/30080191
@@ -696,6 +695,7 @@ http://113.195.7.46:9901/tsfile/live/1049_1.m3u8?key=txiptv&playlive=0&authid=0
 http://113.195.7.46:9901/tsfile/live/1106_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 group-title="其他频道",高尔夫
 http://113.195.7.46:9901/tsfile/live/1105_1.m3u8?key=txiptv&playlive=0&authid=0
+
 
 
 
