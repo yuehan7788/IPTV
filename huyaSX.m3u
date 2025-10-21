@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1084/37/7c96090110880e88916b11e4a18cf9_180_135.jpg?1526894329",group-title="「虎牙」一起看",周星星
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1084/37/7c96090110880e88916b11e4a18cf9_180_135.jpg?1526894329",group-title="🐯「虎牙」一起看",周星星
 https://yug.my/huya/11342412
 https://live.ottiptv.cc/huya/11342412
 https://www.goodiptv.club/huya/11342412
@@ -933,6 +933,7 @@ http://113.195.7.46:9901/tsfile/live/1049_1.m3u8?key=txiptv&playlive=0&authid=0
 http://113.195.7.46:9901/tsfile/live/1106_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 group-title="其他频道",高尔夫
 http://113.195.7.46:9901/tsfile/live/1105_1.m3u8?key=txiptv&playlive=0&authid=0
+
 
 
 
