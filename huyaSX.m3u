@@ -195,6 +195,7 @@ CCTV-4,http://218.19.108.185:808/hls/3/index.m3u8
 CCTV-4,http://218.19.109.221:808/hls/3/index.m3u8
 CCTV-4,http://218.19.108.170:808/hls/3/index.m3u8
 CCTV-4,http://1.31.14.70:54321/hls/13/index.m3u8
+#EXTINF:-1 group-title="央视频道",CCTV5
 CCTV-5,https://ldcctvwbcdks.v.kcdnvip.com/ldcctvwbcd/cdrmldcctv5plus_1/index.m3u8?b=200-2100
 CCTV-5,https://jzb.wwkejishe.top/?id=582
 CCTV-5,https://www.freetv.top/migu/641886683.m3u8?migutoken=3e5c01f93922de8d1c940fe15bb47349b27e8f7a2e624dde1a83dff3b2a80f58b7624151a3a4d00488edee34f202818557340903382fae02bb754084eb942bd50e59061df36fab62fb5b908903
