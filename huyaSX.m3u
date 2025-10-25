@@ -293,7 +293,7 @@ CETV-4,http://117.174.25.254:8188/rtp/239.0.0.98:5140
 北京卫视,https://smart.pendy.dpdns.org/Smart.php?id=beijing
 北京卫视,http://114.252.126.226:8899/hls/16/index.m3u8
 北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
-#EXTINF:-1 group-title="央视频道",湖北卫视
+#EXTINF:-1 group-title="湖北卫视",湖北卫视
 https://jzb.wwkejishe.top/?id=604
 https://www.freetv.top/migu/738906825.m3u8?migutoken=959fce041a0fecbe0bdf2b300a4d13c986661650b877856aabade568eaf9f549143a65c212325030ca99ac119635c6c4daa7c93ba8863508e6aeef100965a31ae4a8152b02337aea453f42988d
 https://smart.pendy.dpdns.org/Smart.php?id=hubei
