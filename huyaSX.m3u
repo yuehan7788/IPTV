@@ -3,14 +3,10 @@
 https://yug.my/huya/11342412
 https://wpi.dpdns.org/huya/11342412
 https://wup.qzz.io/huya/11342412
-#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1076/28/da9040ffcfdfd69568e300a2b68f1b_180_135.jpg?1755959958" group-title="🐯「虎牙」一起看", 天龙八部
-https://yug.my/huya/26220817
 #EXTINF:-1 tvg-logo="http://huyaimg.msstatic.com/avatar/1055/11/1f43f57787ee080f431643233542c2_180_135.jpg" group-title="🐯「虎牙」一起看", 可爱的小强
 https://yug.my/huya/11342435
 #EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1050/b7/0ed46e1fd1bd12cf384f42401cc128_180_135.jpg?1750419913" group-title="🐯「虎牙」一起看", 新橙記Orange丶
 https://yug.my/huya/30590779
-#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1012/68/e44c4a9939d74c32dc39944882ec61_180_135.jpg?1744585803" group-title="🐯「虎牙」一起看", 静静影视
-https://yug.my/huya/30712558
 #EXTINF:-1 tvg-logo="http://huyaimg.msstatic.com/avatar/1081/9e/65115e9fb3108fcb101361c8ab9dd7_180_135.jpg" group-title="🐯「虎牙」一起看", 小木子先生丶
 https://yug.my/huya/11342396
 #EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1083/1d/20197fbf6e3a2798c735acd1f5d5c7_180_135.jpg?1586345770" group-title="🐯「虎牙」一起看", Candy
@@ -117,6 +113,10 @@ https://yug.my/huya/11342420
 https://yug.my/huya/11601979
 #EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1097/fe/ed53deb45515d2b5112db66cea1357_180_135.jpg?1720597114" group-title="🐯「虎牙」一起看", 周董永远的神
 https://yug.my/huya/29982629
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1012/68/e44c4a9939d74c32dc39944882ec61_180_135.jpg?1744585803" group-title="🐯「虎牙」一起看", 静静影视
+https://yug.my/huya/30712558
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1076/28/da9040ffcfdfd69568e300a2b68f1b_180_135.jpg?1755959958" group-title="🐯「虎牙」一起看", 天龙八部
+https://yug.my/huya/26220817
 
 
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202509/5e890868a6f4463aa5038dc64911d3cd_big.jpg" group-title="🐠斗鱼一起看", 阿园子i
@@ -733,6 +733,7 @@ http://113.195.7.46:9901/tsfile/live/1049_1.m3u8?key=txiptv&playlive=0&authid=0
 http://113.195.7.46:9901/tsfile/live/1106_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 group-title="其他频道",高尔夫
 http://113.195.7.46:9901/tsfile/live/1105_1.m3u8?key=txiptv&playlive=0&authid=0
+
 
 
 
