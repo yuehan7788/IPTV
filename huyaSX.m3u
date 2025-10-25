@@ -1024,18 +1024,23 @@ JJ斗地主,https://live.iill.top/douyin/685317364746
 潮流音乐,http://play-radio-stream3.hndt.com/now/Or5au0KN/playlist.m3u8
 
 🏛经典剧场,#genre#
+#EXTINF:-1 group-title="经典剧场",笑傲江湖
 笑傲江湖,http://live.iill.top/yy.php?id=1354282410
 笑傲江湖,https://live.iill.top/huya/23865142
+#EXTINF:-1 group-title="经典剧场",天龙八部
 天龙八部,http://live.iill.top/yy.php?id=1351814644
 天龙八部,https://live.metshop.top/huya/23903123
 鹿鼎记,http://live.iill.top/yy.php?id=1382704650
 仙剑奇侠传,http://live.iill.top/yy.php?id=1382749903
+#EXTINF:-1 group-title="经典剧场",西游记
 西游记,https://live.iill.top/huya/26355861
 西游记,http://cdn.jdshipin.com:8880/huya.php?id=30080242
 三国演义,http://live.iill.top/yy.php?id=1354936241
 三国演义,https://live.iill.top/huya/11602081
 新白娘子传奇,http://live.iill.top/yy.php?id=1354490667
+#EXTINF:-1 group-title="经典剧场",济公游记
 济公游记,http://live.iill.top/yy.php?id=1355265814
+#EXTINF:-1 group-title="经典剧场",封神榜
 封神榜,http://live.iill.top/yy.php?id=1353426319
 上海滩,http://live.iill.top/yy.php?id=1382745184
 射雕英雄传,http://live.iill.top/yy.php?id=1354210357
