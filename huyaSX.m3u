@@ -178,6 +178,8 @@ http://1.31.14.70:54321/hls/4/index.m3u8
 http://218.19.109.221:808/hls/2/index.m3u8
 
 http://218.19.108.170:808/hls/2/index.m3u8
+http://sh.lnott.top:880/dx03.m3u8
+http://1.31.14.70:54321/hls/6/index.m3u8
 #EXTINF:-1 group-title="🌍 央视", CCTV-3
 http://1.31.14.70:54321/hls/6/index.m3u8
 
@@ -545,6 +547,7 @@ http://114.252.126.226:8899/hls/32/index.m3u8
 http://dassby.qqff.top:99/live/新动漫/index.m3u8
 #EXTINF:-1,音乐之声
 http://a.live.hnradio.com/yypd/radio120k_yypd.m3u8?auth_key=1588751172-0-0-d97b858279c1c86650172b9913ea4af2
+
 
 
 
