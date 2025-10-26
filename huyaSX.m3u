@@ -220,7 +220,16 @@ http://1.31.14.70:54321/hls/12/index.m3u8
 #EXTINF:-1,CCTV-13
 http://1.31.14.70:54321/hls/19/index.m3u8
 #EXTINF:-1,CCTV-14
+http://pa.kuangdeng.top:8081/hls/14/index.m3u8
+http://116.128.242.83:9901/tsfile/live/0015_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
+http://zzssw01.55555.io:9901/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0
 http://1.31.14.70:54321/hls/22/index.m3u8
+#EXTINF:-1,CCTV-15
+http://zzssw01.55555.io:9901/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0
+http://pa.kuangdeng.top:8081/hls/15/index.m3u8
+http://116.128.242.83:9901/tsfile/live/0016_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
+http://183.222.242.31:8088/hls/15/index.m3u8
+
 #EXTINF:-1,第一剧场
 http://1.31.14.70:54321/hls/59/index.m3u8
 #EXTINF:-1,广东卫视
@@ -533,6 +542,7 @@ http://114.252.126.226:8899/hls/32/index.m3u8
 http://dassby.qqff.top:99/live/新动漫/index.m3u8
 #EXTINF:-1,音乐之声
 http://a.live.hnradio.com/yypd/radio120k_yypd.m3u8?auth_key=1588751172-0-0-d97b858279c1c86650172b9913ea4af2
+
 
 
 
