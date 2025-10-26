@@ -164,7 +164,7 @@ https://live.metshop.top/douyu/8371123
 
 
 
-
+📺央视频道,#genre#
 #EXTM3U group-title="央视"
 #EXTINF:-1,CCTV-1
 https://p2.bdstatic.com/rtmp.liveshow.lss-user.baidubce.com/live/stream_bduid_6488563992_8982723413/merged_1707497046297_88536_25144_41936.m3u8
@@ -545,6 +545,7 @@ http://114.252.126.226:8899/hls/32/index.m3u8
 http://dassby.qqff.top:99/live/新动漫/index.m3u8
 #EXTINF:-1,音乐之声
 http://a.live.hnradio.com/yypd/radio120k_yypd.m3u8?auth_key=1588751172-0-0-d97b858279c1c86650172b9913ea4af2
+
 
 
 
