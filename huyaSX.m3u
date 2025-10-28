@@ -1,16 +1,10 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1084/37/7c96090110880e88916b11e4a18cf9_180_135.jpg?1526894329",group-title="🐯「虎牙」一起看", 周星星
-https://yug.my/huya/11342412
-https://wpi.dpdns.org/huya/11342412
-https://wup.qzz.io/huya/11342412
-#EXTINF:-1 tvg-logo="http://huyaimg.msstatic.com/avatar/1055/11/1f43f57787ee080f431643233542c2_180_135.jpg" group-title="🐯「虎牙」一起看", 可爱的小强
-https://yug.my/huya/11342435
 #EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1050/b7/0ed46e1fd1bd12cf384f42401cc128_180_135.jpg?1750419913" group-title="🐯「虎牙」一起看", 新橙記Orange丶
 https://yug.my/huya/30590779
 #EXTINF:-1 tvg-logo="http://huyaimg.msstatic.com/avatar/1081/9e/65115e9fb3108fcb101361c8ab9dd7_180_135.jpg" group-title="🐯「虎牙」一起看", 🌲 小木子先生丶
 https://yug.my/huya/11342396
-#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1083/1d/20197fbf6e3a2798c735acd1f5d5c7_180_135.jpg?1586345770" group-title="🐯「虎牙」一起看", Candy
-https://yug.my/huya/25647513
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1077/05/1be792c3b61d0358a25f533c3d42f5_180_135.jpg?1606108236" group-title="🐯「虎牙」一起看", 多美剧场
+https://yug.my/huya/23650774
 #EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1042/79/919162260d4d0b1718b68009e53ea2_180_135.jpg?1722494753" group-title="🐯「虎牙」一起看", 华仔版神雕侠侣
 https://yug.my/huya/30080191
 #EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1075/c1/288db99c4c84edecdfa3a4dd786802_180_135.jpg?1715914636" group-title="🐯「虎牙」一起看", 🐒 大漠李白
@@ -25,8 +19,7 @@ https://yug.my/huya/11601978
 https://yug.my/huya/29465879
 #EXTINF:-1 tvg-logo="http://huyaimg.msstatic.com/avatar/1053/da/61cc96019de66b9bbbcc888f279941_180_135.jpg?1462501097" group-title="🐯「虎牙」一起看", 我爱黑科技
 https://yug.my/huya/11602068
-#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1077/05/1be792c3b61d0358a25f533c3d42f5_180_135.jpg?1606108236" group-title="🐯「虎牙」一起看", 多美剧场
-https://yug.my/huya/23650774
+
 #EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1057/03/7531dc8a84bdf34feab7022ee9575b_180_135.jpg?1646811108" group-title="🐯「虎牙」一起看", 白菘无人省
 https://yug.my/huya/26355864
 #EXTINF:-1 tvg-logo="http://huyaimg.msstatic.com/avatar/1084/e7/973a4388a3a04c8b0d140b88dd6d92_180_135.jpg" group-title="🐯「虎牙」一起看", 心疼得抱住胖胖的自己
@@ -118,6 +111,14 @@ https://yug.my/huya/30712558
 #EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1076/28/da9040ffcfdfd69568e300a2b68f1b_180_135.jpg?1755959958" group-title="🐯「虎牙」一起看", 天龙八部
 https://yug.my/huya/26220817
 
+#EXTINF:-1 tvg-logo="http://huyaimg.msstatic.com/avatar/1055/11/1f43f57787ee080f431643233542c2_180_135.jpg" group-title="🐯「虎牙」一起看", 可爱的小强
+https://yug.my/huya/11342435
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1083/1d/20197fbf6e3a2798c735acd1f5d5c7_180_135.jpg?1586345770" group-title="🐯「虎牙」一起看", Candy
+https://yug.my/huya/25647513
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1084/37/7c96090110880e88916b11e4a18cf9_180_135.jpg?1526894329",group-title="🐯「虎牙」一起看", 周星星
+https://yug.my/huya/11342412
+https://wpi.dpdns.org/huya/11342412
+https://wup.qzz.io/huya/11342412
 
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202509/5e890868a6f4463aa5038dc64911d3cd_big.jpg" group-title="🐠斗鱼一起看", 阿园子i
 https://yug.my/douyu/6588759
@@ -552,6 +553,7 @@ http://114.252.126.226:8899/hls/32/index.m3u8
 http://dassby.qqff.top:99/live/新动漫/index.m3u8
 #EXTINF:-1,音乐之声
 http://a.live.hnradio.com/yypd/radio120k_yypd.m3u8?auth_key=1588751172-0-0-d97b858279c1c86650172b9913ea4af2
+
 
 
 
